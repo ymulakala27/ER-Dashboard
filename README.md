@@ -4,29 +4,44 @@
 
 Welcome to the Emergency Room Analysis Tableau Dashboard! This dynamic dashboard offers a comprehensive exploration of vital insights extracted from emergency room data. From patient demographics to department referrals, this visualization serves as a valuable tool for understanding the patterns and trends within emergency room visits.
 
+<img width="1351" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/d660d9a9-4c3c-478f-ac95-26e8cf89eafb">
+
 ## Dashboard Elements
 
 1. **Total Patients and Gender Ratios:**
    - Get an overview of the total number of patients visiting the emergency room.
    - Discover the percentages of female, male, and uncounted patients, all in a single card.
 
+   <img width="263" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/a5497bf0-f9ad-425a-aef0-469e7c7222d9">
+
 2. **Average Patient Satisfaction Score:**
    - Uncover patient satisfaction levels with an average score presented out of 10.
+
+   <img width="215" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/ac1727a8-22de-4456-bd02-85d010029d96">
+
 
 3. **Age Category Breakdown:**
    - A line chart categorizes patients into age groups: 0-18, 19-65, and 66+.
    - Visualize the patient distribution across these age categories.
+     
+<img width="568" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/5eb734f4-bc09-43ce-9021-09af3f9da347">
 
 4. **Patient Race Distribution:**
    - Gain insights into patient race distribution through a horizontal bar chart.
    - Races are categorized as White, African American, Two or More Races, Asian, Declined to Identify, Pacific Islander, and Native American/Alaska.
 
+<img width="1032" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/853d81b4-e9ed-489b-8d97-144d5940cadb">
+
 5. **Average Wait Times Heatmap:**
    - Explore the heatmap showcasing average wait times on weekdays and from 12 am to 11 pm.
+
+<img width="518" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/c31caffb-9ffd-41ed-9347-712891d8d631">
 
 6. **Referring Department Distribution:**
    - Delve into the department that referred patients through a horizontal bar chart.
    - Departments include General Practice, Orthopedics, Physiotherapy, Cardiology, Neurology, Gastroenterology, and Renal.
+
+<img width="1061" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/5a316b0d-4727-4577-869a-13196d39b9c4">
 
 ## Insights
 
