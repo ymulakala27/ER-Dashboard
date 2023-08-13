@@ -4,6 +4,8 @@
 
 Welcome to the Emergency Room Analysis Tableau Dashboard! This dynamic dashboard offers a comprehensive exploration of vital insights extracted from emergency room data. From patient demographics to department referrals, this visualization serves as a valuable tool for understanding the patterns and trends within emergency room visits.
 
+View the dashboard using this link:- https://public.tableau.com/app/profile/yaswanth.mulakala/viz/EmergencyRoomDashboard_16891844753940/Dashboard1
+
 <img width="1351" alt="image" src="https://github.com/ymulakala27/ER-Dashboard/assets/128730384/d660d9a9-4c3c-478f-ac95-26e8cf89eafb">
 
 ## Dashboard Elements
